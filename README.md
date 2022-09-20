@@ -2,6 +2,10 @@
 
 <p align="center">:information_source: A highly efficient sorting algorithm on two stacks</p>
 
+<p align="center"><img src="https://user-images.githubusercontent.com/81205527/191116700-f59a18fd-e7f5-4c76-8f41-74a68d1ba32b.png"></p>
+
+<p align="center"> <strong>84/100</strong> ✅ </p>
+
 <p align="center">🚧 Under construction</p>
 
 <p align="center"><a href="https://www.42sp.org.br/" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=SP&color=000&style=for-the-badge&logo=42""></a></p>
